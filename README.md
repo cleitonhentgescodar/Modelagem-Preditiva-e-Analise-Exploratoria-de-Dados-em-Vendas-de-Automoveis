@@ -48,4 +48,4 @@ O trabalho combina **análise exploratória de dados (EDA)**, **modelos de regre
 ---
 
 🔗 Este repositório faz parte do portfólio em Ciência de Dados, consolidando habilidades práticas em **EDA, modelagem preditiva e avaliação de algoritmos de ML**.  
-```
+
